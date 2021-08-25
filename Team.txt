@@ -2,9 +2,11 @@ Team -
 1) Shubham
 2) Riya
 3) Bhavey
-<<<<<<< Updated upstream
 4) Kratik
-=======
+5) Lakshita
+6) Siddhant
+5) Rahul
+6) Pranay
+7) Rishabh
 4) Rahul
->>>>>>> Stashed changes
 5) Akarsh
