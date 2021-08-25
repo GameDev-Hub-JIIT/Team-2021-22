@@ -5,8 +5,8 @@ Team -
 4) Kratik
 5) Lakshita
 6) Siddhant
-5) Rahul
-6) Pranay
-7) Rishabh
-4) Rahul
-5) Akarsh
+7) Rahul
+8) Pranay
+9) Rishabh
+10) Rahul
+11) Akarsh
